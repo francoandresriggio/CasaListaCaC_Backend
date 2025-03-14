@@ -133,7 +133,6 @@ def consulta_usuario(id):
         'telefono': usuario_consulta.telefono,
         'genero': usuario_consulta.genero,
         'imagen': usuario_consulta.imagen,
-        'contrasena': usuario_consulta.contrasena,
         'profesion': usuario_profesion,
         'descripcion_profesion': usuario_consulta.descripcion_profesional
     }), 200
