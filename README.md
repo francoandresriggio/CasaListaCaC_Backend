@@ -1,20 +1,24 @@
-# Casa Lista
-## ¿Qué es Casa Lista?
-Casa Lista es una aplicación desarrollada por estudiantes del programa Codo a Codo del gobierno de la Ciudad de Buenos Aires 🧑‍💻.
+# Casa Lista  
 
-El objetivo de Casa Lista es ayudarte a encontrar más fácil al profesional que necesitas para tu hogar 🏠, de acuerdo con tu zona y tus expectativas sobre la calidad del servicio brindado 👩‍🏭👷
+## What is Casa Lista?  
+Casa Lista is an application developed by students from the *Codo a Codo* program of the Buenos Aires City Government 🧑‍💻.  
 
-## ¿De qué trata este repositorio?
-Este repositorio muestra el Backend de la aplicación realizada, el cual fue desarrollado utilizando Python 🐍 como lenguaje, en conjunto con Flask como framework para el desarrollo del backend del sitio, y MySQL como motor de base de datos 💽. El código que se muestra en este repositorio está siendo ejecutado en <a href="https://francoriggio.pythonanywhere.com/" rel="nofollow noreferrer">pythonanywhere</a>.
+The goal of Casa Lista is to help you easily find the right professional for your home 🏠, based on your location and service quality expectations 👩‍🏭👷.  
 
-Para el <a href="https://github.com/francoandresriggio/CasaListaCaC_Frontend" rel="nofollow noreferrer">Frontend de la aplicación,</a> se utilizó HTML, CSS y JS.
+## About this repository  
+This repository contains the **Backend** of the application, developed using **Python** 🐍 along with **Flask** as the backend framework and **MySQL** as the database engine 💽. The code in this repository is currently running on <a href="https://francoriggio.pythonanywhere.com/" rel="nofollow noreferrer">PythonAnywhere</a>.  
 
-## Diseño de la base de datos
+For the <a href="https://github.com/francoandresriggio/CasaListaCaC_Frontend" rel="nofollow noreferrer">Frontend of the application,</a> HTML, CSS, and JavaScript were used.  
 
-![Diagrama de la base de datos](./assets/db_diagram.jpg)
+## Database Design  
 
-## Equipo
-- Eduardo Ojeda
-- Mauro Gabriel Pazos
-- Franco Andres Riggio
-- Silvia Gomez
+![Database Diagram](./assets/db_diagram.jpg)  
+
+## Team  
+- Eduardo Ojeda  
+- Mauro Gabriel Pazos  
+- Franco Andres Riggio  
+- Silvia Gomez  
+
+> 🌎 This documentation is available in **English**.  
+> For the Spanish version, check [README_es.md](./README_es.md).  
